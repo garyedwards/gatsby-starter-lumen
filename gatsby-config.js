@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://re.je',
+    title: 're.je',
+    subtitle: 'architecture | robotics',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,11 +20,11 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
+      name: 'Gary Edwards',
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@edwardsgary',
+      github: 'garyedwards',
       rss: '#',
       vk: '#'
     }
